@@ -14,4 +14,4 @@ Website: [link](shaynasura.weebly.com)
 
 
 # Git Workflow 
-
+Pull, make changes, commit, pull, then push.
